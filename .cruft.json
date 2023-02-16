@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "d7244522b73693523a377d8afcc272cb2753cb1e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Aditya Rachman Putra",
+      "author_email": "adityarputra@gmail.com",
+      "github_username": "banditelol",
+      "project_name": "snakepyt",
+      "project_slug": "snakepyt",
+      "package_name": "snakepyt",
+      "project_short_description": "a pip-installable bundle of modules  for my day-to-day uses, possible unbundled in the future",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
